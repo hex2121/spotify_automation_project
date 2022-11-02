@@ -54,16 +54,7 @@ class TestLoginPage:
         CommonFunctions().wait_for_element(pause_button)
         assert driver.find_elements(By.CSS_SELECTOR, pause_button), "the album did not play"
 
-   '''def test_buying_premium(self, initiate_Driver):
-        CommonFunctions().click(signin)
-        LoginPageFunctions().perform_login(acc_for_premium, pass_for_premium_acc)
-        CommonFunctions().click(upgrade_to_premium_button)
-        actions = ActionChains(driver)
-        actions.send_keys(Keys.PAGE_DOWN)
-        actions.perform()
-        time.sleep(10)
-        CommonFunctions().click(individual_plan_button)
-        #driver.find_element(by=By.CSS_SELECTOR, value=individual_plan_button).click()'''
+
 
 
 
