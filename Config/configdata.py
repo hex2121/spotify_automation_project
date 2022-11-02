@@ -1,0 +1,8 @@
+correct_passwor = "******"
+incorrect_passwor = "1234"
+correct_mail = "*****@gmail.com"
+song_name = "deva deva"
+album_name = "In Rainbows"
+playlist_name = "test"
+acc_for_premium = "sharmataru8383@gmail.com"
+pass_for_premium_acc = "taru@29sharma!!!!"
