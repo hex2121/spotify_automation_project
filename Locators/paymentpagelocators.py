@@ -1,0 +1,1 @@
+individual_plan_button = 'a[aria-label="Checkout for Premium Individual plan"].Button-qlcn5g-0.eJSmcN>div.ButtonFocus-sc-2hq6ey-0.ixIjmW'
