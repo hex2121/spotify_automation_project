@@ -7,6 +7,8 @@ from Locators.paymentpagelocators import *
 import time
 
 class TestLoginPage:
+
+    @pytest.mark("smoke")
     @pytest.mark.usefixtures("initiate_Driver")
     def test_verify_login_with_correct_credentials(self, initiate_Driver):
 
